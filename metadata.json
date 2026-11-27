@@ -1,0 +1,6 @@
+{
+  "name": "ANGAD MUSIC DISTRIBUTOR",
+  "description": "Digital music distribution, catalog release management, smart links, and royalty ledger platform for Palamu Entertainment Industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
